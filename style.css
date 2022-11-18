@@ -1,0 +1,53 @@
+h1{color: red;
+    font-weight:bold;
+    text-decoration: underline;
+    position: relative;
+    left: 20cm;
+}
+body{
+    background-color: greenyellow;
+}
+p.introduction{color:blue;
+    font-size: medium;
+}
+h2{color: red;
+    font-weight: bold;
+    text-decoration:underline;
+    position: relative;
+    left: 40cm;
+        ;
+}
+li.taff{color: blue;
+    font-size: medium;
+}
+.taff span {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #7D3500;
+    font-style: italic;
+}
+li.etudes{font-weight: bold;
+    color: black;
+    font-size: medium;
+}
+li.information{
+    color: coral;
+    font-style: oblique;
+    font-size: medium;
+}
+.titre{
+    position: static;
+}
+.titre2{
+    position:relative;
+    right: 825px;
+    font-size: larger;
+}
+.titre3{
+    position: relative;
+    right: 725px;
+    font-size: larger;
+}
+p, li {
+    font-size: larger;
+}
